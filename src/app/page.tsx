@@ -29,7 +29,7 @@ export default function Home() {
           </p>
 
           <p className="mb-2 text-lg text-black">
-            I am a first-semester Teaching Assistant for CS 2800 ("Mathematical
+            I am a Teaching Assistant for CS 2800 ("Mathematical
             Foundations of Computing") at Cornell. I am also a research
             assistant in the EmPRISE Lab, exploring different ways to create
             adaptive robot control. This coming summer, I will be working as a
