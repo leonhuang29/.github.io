@@ -27,7 +27,6 @@ export default function Home() {
           <p className="text-lg text-black mb-2">
             I am a first-semester Teaching Assistant for CS 2800 ("Mathematical Foundations of Computing") at Cornell. 
             I am also a research assistant in the EmPRISE Lab, exploring different ways to create adaptive robot control. 
-            In the future, I hope to conduct research in Algorithms or Cryptography.
             This coming summer, I will be working as a Software Engineering Intern at Capital One. 
           </p>
 
