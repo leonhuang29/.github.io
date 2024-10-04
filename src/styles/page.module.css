@@ -1,0 +1,49 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+  }
+  
+  .profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    max-width: 800px;
+  }
+  
+  .imageContainer {
+    border-radius: 50%;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  
+  .textContainer h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .textContainer p {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    color: #555;
+  }
+  
+  @media (min-width: 768px) {
+    .profile {
+      flex-direction: row;
+      text-align: left;
+    }
+  
+    .imageContainer {
+      margin-right: 20px;
+      margin-bottom: 0;
+    }
+  
+    .textContainer {
+      max-width: 600px;
+    }
+  }
+  
