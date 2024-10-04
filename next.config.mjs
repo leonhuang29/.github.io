@@ -1,15 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export', // Indicates you're using static export mode
+  output: 'export',
   images: {
-    unoptimized: true, // Disable image optimization for static export
+    unoptimized: true, 
   },
   theme: {
     extend: {
-      // Custom Tailwind CSS settings if needed
     },
   },
-  plugins: [], // Add any Tailwind plugins here if needed
+  plugins: [], 
 };
 
 export default nextConfig;
