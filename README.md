@@ -133,4 +133,5 @@ The following GitHub settings are enabled:
 
 - https://github.com/gregrickaby/nextjs-github-pages
 - https://nextjs.org/docs/pages/building-your-application/deploying/static-exports
+
 # .github.io
